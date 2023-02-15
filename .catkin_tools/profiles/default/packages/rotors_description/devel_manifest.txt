@@ -1,0 +1,5 @@
+sentinel_drone/task_1/rotors_description
+/home/thilanka/catkin_ws/devel/.private/rotors_description/cmake.lock /home/thilanka/catkin_ws/devel/./cmake.lock
+/home/thilanka/catkin_ws/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig.cmake /home/thilanka/catkin_ws/devel/share/rotors_description/cmake/rotors_descriptionConfig.cmake
+/home/thilanka/catkin_ws/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake /home/thilanka/catkin_ws/devel/share/rotors_description/cmake/rotors_descriptionConfig-version.cmake
+/home/thilanka/catkin_ws/devel/.private/rotors_description/lib/pkgconfig/rotors_description.pc /home/thilanka/catkin_ws/devel/lib/pkgconfig/rotors_description.pc

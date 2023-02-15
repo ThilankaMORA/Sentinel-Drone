@@ -1,0 +1,8 @@
+prefix=/home/thilanka/catkin_ws/devel/.private/edrone_client
+
+Name: edrone_client
+Description: Description of edrone_client
+Version: 1.0.1
+Cflags: -I/home/thilanka/catkin_ws/devel/.private/edrone_client/include
+Libs: -L${prefix}/lib 
+Requires: roscpp cv_bridge sensor_msgs rospy std_msgs message_runtime

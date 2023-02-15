@@ -1,0 +1,8 @@
+prefix=/home/thilanka/catkin_ws/devel/.private/whycon
+
+Name: whycon
+Description: Description of whycon
+Version: 1.2.0
+Cflags: -I/home/thilanka/catkin_ws/devel/.private/whycon/include -I/home/thilanka/catkin_ws/src/sentinel_drone/whycon/include
+Libs: -L${prefix}/lib -lwhycon
+Requires: cv_bridge roscpp sensor_msgs std_msgs message_runtime geometry_msgs

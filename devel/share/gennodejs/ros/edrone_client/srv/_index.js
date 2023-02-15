@@ -1,0 +1,1 @@
+/home/thilanka/catkin_ws/devel/.private/edrone_client/share/gennodejs/ros/edrone_client/srv/_index.js

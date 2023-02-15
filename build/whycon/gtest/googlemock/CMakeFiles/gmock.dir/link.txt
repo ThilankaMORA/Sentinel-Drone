@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -Wall -g -O4 -march=native -Wfatal-errors  -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/thilanka/catkin_ws/build/whycon/gtest/lib ../lib/libgtest.so -lpthread 

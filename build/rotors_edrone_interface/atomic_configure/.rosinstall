@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thilanka/catkin_ws/devel/.private/rotors_edrone_interface/setup.sh

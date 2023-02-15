@@ -1,0 +1,6 @@
+devel_space: /home/thilanka/catkin_ws/devel
+install: false
+install_space: /home/thilanka/catkin_ws/install
+profile: default
+source_space: /home/thilanka/catkin_ws/src
+workspace: /home/thilanka/catkin_ws

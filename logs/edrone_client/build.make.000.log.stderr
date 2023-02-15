@@ -1,0 +1,9 @@
+[01m[K/home/thilanka/catkin_ws/src/sentinel_drone/task_1/edrone_client/src/Protocol.cpp:[m[K In member function ‘[01m[Kint Protocol::read32()[m[K’:
+[01m[K/home/thilanka/catkin_ws/src/sentinel_drone/task_1/edrone_client/src/Protocol.cpp:81:30:[m[K [01;35m[Kwarning: [m[Koperation on ‘[01m[KbufferIndex[m[K’ may be undefined [[01;35m[K-Wsequence-point[m[K]
+   81 |   + ((inputBuffer[[01;35m[KbufferIndex++[m[K] & 0xff) << 16) + ((inputBuffer[bufferIndex++] & 0xff) << 24);
+      |                   [01;35m[K~~~~~~~~~~~^~[m[K
+[01m[K/home/thilanka/catkin_ws/src/sentinel_drone/task_1/edrone_client/src/Protocol.cpp:81:30:[m[K [01;35m[Kwarning: [m[Koperation on ‘[01m[KbufferIndex[m[K’ may be undefined [[01;35m[K-Wsequence-point[m[K]
+[01m[K/home/thilanka/catkin_ws/src/sentinel_drone/task_1/edrone_client/src/Protocol.cpp:81:30:[m[K [01;35m[Kwarning: [m[Koperation on ‘[01m[KbufferIndex[m[K’ may be undefined [[01;35m[K-Wsequence-point[m[K]
+[01m[K/home/thilanka/catkin_ws/src/sentinel_drone/task_1/edrone_client/src/Protocol.cpp:81:30:[m[K [01;35m[Kwarning: [m[Koperation on ‘[01m[KbufferIndex[m[K’ may be undefined [[01;35m[K-Wsequence-point[m[K]
+[01m[K/home/thilanka/catkin_ws/src/sentinel_drone/task_1/edrone_client/src/Protocol.cpp:81:30:[m[K [01;35m[Kwarning: [m[Koperation on ‘[01m[KbufferIndex[m[K’ may be undefined [[01;35m[K-Wsequence-point[m[K]
+[01m[K/home/thilanka/catkin_ws/src/sentinel_drone/task_1/edrone_client/src/Protocol.cpp:81:30:[m[K [01;35m[Kwarning: [m[Koperation on ‘[01m[KbufferIndex[m[K’ may be undefined [[01;35m[K-Wsequence-point[m[K]

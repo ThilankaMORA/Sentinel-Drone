@@ -1,0 +1,14 @@
+Symlinking /home/thilanka/catkin_ws/devel/include/sentinel_drone/Geolocation.h
+Symlinking /home/thilanka/catkin_ws/devel/share/roseus/ros/sentinel_drone/manifest.l
+Symlinking /home/thilanka/catkin_ws/devel/share/roseus/ros/sentinel_drone/msg/Geolocation.l
+Symlinking /home/thilanka/catkin_ws/devel/share/gennodejs/ros/sentinel_drone/_index.js
+Symlinking /home/thilanka/catkin_ws/devel/share/gennodejs/ros/sentinel_drone/msg/_index.js
+Symlinking /home/thilanka/catkin_ws/devel/share/gennodejs/ros/sentinel_drone/msg/Geolocation.js
+Symlinking /home/thilanka/catkin_ws/devel/share/sentinel_drone/cmake/sentinel_drone-msg-paths.cmake
+Symlinking /home/thilanka/catkin_ws/devel/share/common-lisp/ros/sentinel_drone/msg/Geolocation.lisp
+Symlinking /home/thilanka/catkin_ws/devel/share/common-lisp/ros/sentinel_drone/msg/sentinel_drone-msg.asd
+Symlinking /home/thilanka/catkin_ws/devel/share/common-lisp/ros/sentinel_drone/msg/_package_Geolocation.lisp
+Symlinking /home/thilanka/catkin_ws/devel/share/common-lisp/ros/sentinel_drone/msg/_package.lisp
+Symlinking /home/thilanka/catkin_ws/devel/lib/python3/dist-packages/sentinel_drone/__init__.py
+Symlinking /home/thilanka/catkin_ws/devel/lib/python3/dist-packages/sentinel_drone/msg/__init__.py
+Symlinking /home/thilanka/catkin_ws/devel/lib/python3/dist-packages/sentinel_drone/msg/_Geolocation.py

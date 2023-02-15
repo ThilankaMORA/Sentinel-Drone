@@ -1,0 +1,7 @@
+Symlinking /home/thilanka/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+Symlinking /home/thilanka/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+Symlinking /home/thilanka/catkin_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+Symlinking /home/thilanka/catkin_ws/devel/lib/rotors_gazebo/hovering_example
+Symlinking /home/thilanka/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+Symlinking /home/thilanka/catkin_ws/devel/lib/rotors_gazebo/quaternion_to_rpy
+Symlinking /home/thilanka/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher

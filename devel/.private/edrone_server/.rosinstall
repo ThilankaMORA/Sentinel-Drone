@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thilanka/catkin_ws/devel/.private/edrone_server/setup.sh

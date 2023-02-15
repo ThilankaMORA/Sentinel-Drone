@@ -1,0 +1,2 @@
+sentinel_drone/task_1/rotors_simulator
+/home/thilanka/catkin_ws/devel/.private/rotors_simulator/cmake.lock /home/thilanka/catkin_ws/devel/./cmake.lock

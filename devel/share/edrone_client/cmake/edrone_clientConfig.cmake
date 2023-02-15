@@ -1,0 +1,1 @@
+/home/thilanka/catkin_ws/devel/.private/edrone_client/share/edrone_client/cmake/edrone_clientConfig.cmake

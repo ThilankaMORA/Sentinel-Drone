@@ -1,0 +1,1 @@
+/home/thilanka/catkin_ws/devel/.private/sentinel_drone/include/sentinel_drone/Geolocation.h

@@ -1,0 +1,1 @@
+/home/thilanka/catkin_ws/devel/.private/sentinel_drone/share/sentinel_drone/cmake/sentinel_drone-msg-paths.cmake

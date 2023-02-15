@@ -1,0 +1,1 @@
+/home/thilanka/catkin_ws/devel/.private/sentinel_drone/share/common-lisp/ros/sentinel_drone/msg/sentinel_drone-msg.asd

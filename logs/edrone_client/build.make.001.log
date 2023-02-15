@@ -1,0 +1,17 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 15%] Built target edrone_client
+[ 15%] Built target _edrone_client_generate_messages_check_deps_edrone_services
+[ 15%] Built target _edrone_client_generate_messages_check_deps_edrone_msgs
+[ 15%] Built target std_msgs_generate_messages_eus
+[ 15%] Built target std_msgs_generate_messages_nodejs
+[ 15%] Built target std_msgs_generate_messages_py
+[ 15%] Built target std_msgs_generate_messages_lisp
+[ 30%] Built target edrone_client_generate_messages_cpp
+[ 40%] Built target edrone_client_generate_messages_eus
+[ 60%] Built target edrone_client_generate_messages_py
+[ 70%] Built target edrone_client_generate_messages_nodejs
+[ 80%] Built target edrone_client_generate_messages_lisp
+[ 80%] Built target edrone_client_gencpp
+[ 80%] Built target edrone_client_generate_messages
+[ 90%] Built target edroneswarm
+[100%] Built target edroneclient

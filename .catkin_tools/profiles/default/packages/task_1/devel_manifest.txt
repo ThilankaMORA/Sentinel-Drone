@@ -1,0 +1,2 @@
+sentinel_drone/task_1/task_1
+/home/thilanka/catkin_ws/devel/.private/task_1/cmake.lock /home/thilanka/catkin_ws/devel/./cmake.lock

@@ -1,0 +1,2 @@
+set(sentinel_drone_MESSAGE_FILES "/home/thilanka/catkin_ws/src/sentinel_drone/sentinel_drone/msg/Geolocation.msg")
+set(sentinel_drone_SERVICE_FILES "")

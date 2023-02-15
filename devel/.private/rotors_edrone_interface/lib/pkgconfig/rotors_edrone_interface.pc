@@ -1,0 +1,8 @@
+prefix=/home/thilanka/catkin_ws/devel/.private/rotors_edrone_interface
+
+Name: rotors_edrone_interface
+Description: Description of rotors_edrone_interface
+Version: 0.0.1
+Cflags: -I/home/thilanka/catkin_ws/src/sentinel_drone/task_1/rotors_edrone_interface/include
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs mav_msgs trajectory_msgs edrone_client

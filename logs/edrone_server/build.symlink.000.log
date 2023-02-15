@@ -1,0 +1,4 @@
+Symlinking /home/thilanka/catkin_ws/devel/share/edrone_server/cmake/edrone_serverConfig.cmake
+Symlinking /home/thilanka/catkin_ws/devel/share/edrone_server/cmake/edrone_serverConfig-version.cmake
+Symlinking /home/thilanka/catkin_ws/devel/lib/pkgconfig/edrone_server.pc
+Symlinking /home/thilanka/catkin_ws/devel/lib/edrone_server/edroneserver

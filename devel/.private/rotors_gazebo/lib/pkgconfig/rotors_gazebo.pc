@@ -1,0 +1,8 @@
+prefix=/home/thilanka/catkin_ws/devel/.private/rotors_gazebo
+
+Name: rotors_gazebo
+Description: Description of rotors_gazebo
+Version: 4.0.6
+Cflags: -I/home/thilanka/catkin_ws/src/sentinel_drone/task_1/rotors_gazebo/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs mav_msgs nav_msgs roscpp sensor_msgs gazebo_msgs
